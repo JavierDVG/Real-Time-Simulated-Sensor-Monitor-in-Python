@@ -19,9 +19,7 @@ This project demonstrates a simple real-time sensor dashboard using simulated da
 
 ## 🖼️ Demo
 
-![Sensor Monitor Demo](https://raw.githubusercontent.com/your-username/your-repo-name/main/demo.gif)
-
-> *Note: You can record a short screen capture and upload it as `demo.gif` for more visual impact.*
+![Sensor Monitor Demo](https://raw.githubusercontent.com/JavierDVG/Real-Time-Simulated-Sensor-Monitor-in-Python/main/demo.gif)
 
 ---
 
@@ -31,4 +29,3 @@ Install the required Python libraries:
 
 ```bash
 pip install pandas plotly
-
